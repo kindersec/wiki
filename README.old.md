@@ -1,0 +1,2 @@
+# wiki
+Smart Home Wiki
